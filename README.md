@@ -48,11 +48,9 @@ python -m pip install -r xai/requirements.txt
 python -m unittest discover -s xai -v
 ```
 
-## Team
+## Contributors
 
-This was a joint CS5495 course project by **QIAN Yuwei** and **JIN Yupeng**.
-
-- **QIAN Yuwei** developed the original collection, replay and input-isolation pipeline, analyzed the revisited states, cross-checked the follow-up cohort, assembled the final report and produced the animated presentation cut.
-- **JIN Yupeng** built the explanation benchmark, collected and analyzed the sticky-action cohort, developed the life-loss case comparisons, independently verified results and recorded the original presentation and narration.
+- **QIAN Yuwei** ([yqia03](https://github.com/yqia03)) developed the original collection, replay and input-isolation pipeline, analyzed the revisited states, cross-checked the follow-up cohort, assembled the final report and produced the animated presentation cut.
+- **JIN Yupeng** ([PP201666](https://github.com/PP201666)) built the explanation benchmark, collected and analyzed the sticky-action cohort, developed the life-loss case comparisons, independently verified results and recorded the original presentation and narration.
 
 OpenAI Codex assisted Qian’s work on implementation, analysis, report production and presentation animation.

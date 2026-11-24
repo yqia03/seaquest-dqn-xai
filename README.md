@@ -4,9 +4,9 @@ Does a pretrained Atari Seaquest agent use the on-screen oxygen gauge when it ch
 
 ## Demo
 
-[**58.8-second demo (MP4)**](assets/demo.mp4) · [Report (PDF)](report/Group65-Seaquest.pdf) · [Portable notebook](report/Group65-Seaquest.ipynb)
+https://github.com/user-attachments/assets/14cc3317-741b-406c-9116-0f3bc0e738cd
 
-[![Animated Seaquest study preview showing the oxygen gauge, paired masks, holdout results and Q-value comparisons](assets/demo-preview.gif)](assets/demo.mp4)
+[Download the 58.8-second MP4](assets/demo.mp4?raw=true) · [Silent preview](assets/demo-preview.gif) · [Report (PDF)](report/Group65-Seaquest.pdf) · [Portable notebook](report/Group65-Seaquest.ipynb)
 
 ## What we found
 
